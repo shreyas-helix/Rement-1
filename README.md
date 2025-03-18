@@ -52,5 +52,7 @@ flutter run
 This project is licensed under the MIT License.
 
 ✨ Contributors
-👤 [Your Name] – Lead Developer
+👤 Tejas R
+👤 Shreyas KV
+👤 Varna Bhat
 
