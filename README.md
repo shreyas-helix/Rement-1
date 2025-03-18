@@ -1,8 +1,8 @@
-📌 Rement – Event Management App for Students
-📖 Overview
+# 📌 Rement – Event Management App for Students
+# 📖 Overview
 Rement is a cross-platform mobile application built using Flutter and Firebase, designed to help students stay updated on placement, cultural, technical, and academic events while providing faculty with an easy-to-use event management system.
 
-🎯 Features
+# 🎯 Features
 ✅ Centralized Event Management – View all upcoming events in one place.
 ✅ Faculty Dashboard – Enables faculty to add, update, and categorize event posts.
 ✅ Secure User Authentication – Firebase Authentication (Google Sign-In & Email).
@@ -10,25 +10,20 @@ Rement is a cross-platform mobile application built using Flutter and Firebase, 
 ✅ Search & Filtering – Quickly find events using an optimized search feature.
 ✅ Intuitive UI/UX – Designed for easy navigation and accessibility.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Frontend: Flutter (Dart)
 Backend: Firebase (Firestore, Authentication)
 State Management: Provider
 Development Tools: Android Studio, DevTools
-📸 Screenshots
-Get Started	Home	Search & Filter	Post Event
-(Insert Screenshot)	(Insert Screenshot)	(Insert Screenshot)	(Insert Screenshot)
-🚀 Installation & Setup
+
+# 🚀 Installation & Setup
 Prerequisites
 Ensure you have the following installed on your system:
 
-Flutter SDK
-Android Studio / VS Code
-Firebase Setup (Firestore, Authentication)
-Steps to Run Locally
-bash
-Copy
-Edit
+✅ Flutter SDK
+✅ Android Studio / VS Code
+✅ Firebase Setup (Firestore, Authentication)
+
 # Clone the repository
 git clone https://github.com/shreyas-helix/Rement-1.git
 
